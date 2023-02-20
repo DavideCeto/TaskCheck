@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 13
+Main-Class: com.gft.javafilerm.JavaFileRM
+Created-By: Maven Integration for Eclipse
+
